@@ -3,8 +3,6 @@ Section: x11
 Priority: optional
 Maintainer: Ignace Mouzannar <mouzannar@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~), qt4-qmake, libqt4-dev, libx11-dev, libxpm-dev, libxmu-dev, bash-completion
-Vcs-Svn: svn://svn.debian.org/collab-maint/ext-maint/kdocker/trunk/
-Vcs-Browser: http://svn.debian.org/viewsvn/collab-maint/ext-maint/kdocker/trunk/
 Homepage: http://launchpad.net/kdocker
 Standards-Version: 3.9.2
 

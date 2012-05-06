@@ -1,13 +1,14 @@
-kdocker (4.5-2) UNRELEASED; urgency=low
+kdocker (4.6-1) unstable; urgency=low
 
+  * New upstream release.
   * debian/copyright:
     - Added missing copyright mentions for files located in:
       solutions/qtsingleapplication/*
+    - Updated formet to fit the dep5 specification.
   * debian/control:
-    - Added Vcs-Svn and Vcs-Browser information.
     - Bumped the Standards-Version to 3.9.2.
 
- -- Ignace Mouzannar <mouzannar@gmail.com>  Fri, 29 Apr 2011 01:29:56 +0200
+ -- Ignace Mouzannar <mouzannar@gmail.com>  Sun, 22 Jan 2012 05:28:02 +0400
 
 kdocker (4.5-1) unstable; urgency=low
 
