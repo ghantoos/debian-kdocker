@@ -2,9 +2,10 @@ Source: kdocker
 Section: x11
 Priority: optional
 Maintainer: Ignace Mouzannar <mouzannar@gmail.com>
+DM-Upload-Allowed: yes
 Build-Depends: debhelper (>= 7.0.50~), qt4-qmake, libqt4-dev, libx11-dev, libxpm-dev, libxmu-dev, bash-completion
 Homepage: http://launchpad.net/kdocker
-Standards-Version: 3.9.2
+Standards-Version: 3.9.3
 
 Package: kdocker
 Architecture: any
